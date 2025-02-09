@@ -18039,6 +18039,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dompurify@npm:2.5.4":
+  version: 2.5.4
+  resolution: "dompurify@npm:2.5.4"
+  checksum: 1b40b7b1c5466ad68841b0743c871987167052a67411d2d25f31741a7961c651acc54d6cc45480afb01e0ff084870699a25217d5f2d4da3c53ca8c92ab430450
+  languageName: node
+  linkType: hard
+
 "dompurify@npm:^2.2.0":
   version: 2.4.5
   resolution: "dompurify@npm:2.4.5"
@@ -30565,7 +30572,7 @@ __metadata:
     core-js: ^3.6.5
     cross-fetch: ^3.1.5
     dayjs: ^1.10.7
-    dompurify: 2.3.10
+    dompurify: 2.5.4
     dotenv: ^16.0.0
     eslint: ^8.*
     ethers: ^5.7.0
@@ -31556,7 +31563,7 @@ __metadata:
     css-minimizer-webpack-plugin: ^3.4.1
     date-fns: ^2.28.0
     dayjs: ^1.10.7
-    dompurify: 2.3.10
+    dompurify: 2.5.4
     dotenv-cli: ^5.1.0
     email-regex: ^5.0.0
     eml-format: ^0.6.1
